@@ -5,7 +5,7 @@ $(document).ready(function(){
     $("img").toggle();
     
 });
-  $("body").click(function){
-    $("body").css({"background-color","red"});
+  $("p").click(function){
+    $("p").css({"background-color","red"});
    });
 
