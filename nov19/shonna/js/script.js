@@ -1,6 +1,6 @@
 $(document).ready(function() {
   $("h1, p").fadeIn("fast");
-  $("h1").slideDown();
+  $("h1").slideUp();
   $("button").click(function(){
     $("img").toggle();
   });
