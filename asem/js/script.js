@@ -1,4 +1,4 @@
 $(document).ready(function(){
   
-  $("h1,p").fadeIn("slow");
+  $("h1,p").fadeIn("5ooo");
 });
