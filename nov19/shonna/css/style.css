@@ -36,5 +36,15 @@ button:hover {
   color: green;
 }
 
+div {
+  height: 15em;
+  width: 15em;
+  border-radius: 15em;
+}
+
+#red {background: red;}
+#pink {background: pink;}
+#gold {background: gold;}
+
 
 
