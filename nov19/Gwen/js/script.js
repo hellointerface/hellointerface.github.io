@@ -5,5 +5,8 @@ $(document).ready(function() {
 });
   $("body").click(function() {
     $("body").css("background-color", "blue");
-  });
+  }); I
+  $("div").click(function (){
+    $(this).hide();
+});
 });
