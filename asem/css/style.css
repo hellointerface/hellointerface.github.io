@@ -19,3 +19,13 @@ img{
  #round-picture {
    border-radius:15em;
 }
+button {
+     padding:.75em;
+  background:green;
+  color:red;
+   font-weight :700;
+}
+button:hover {
+   background:red;
+   color:white;
+}
