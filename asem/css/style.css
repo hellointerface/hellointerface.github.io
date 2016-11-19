@@ -2,6 +2,7 @@ h1 {
   font-size:3em;
   color:red;
   text-align:center;
+  display:none;
 }
  p{
    font-style:italic;
