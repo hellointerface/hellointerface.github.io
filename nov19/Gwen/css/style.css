@@ -2,11 +2,13 @@ h1{
   font-size: 3em;
   color: purple;
   text-align: center;
+  display:none;
 }
 
 p{
   font-style: italic;
   color: red;
+ display:none; 
 }
 
 #Vision {
