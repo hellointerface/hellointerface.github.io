@@ -8,5 +8,8 @@ $(document).ready(function(){
   $("body").click(function(){
     $("body").css("background-color","red");
    });
+  $("div").click(function(){
+    $(This).hide();
+  });
      });
 
