@@ -3,7 +3,7 @@ $(document).ready(function() {
   $("button").click(function(){
     $("img").toggle();
   });
-  $("p").click(function() {
-    $("p").css("background-color", "purple");
+  $("body").click(function() {
+    $("body").css("background-color", "purple");
   });
 });
